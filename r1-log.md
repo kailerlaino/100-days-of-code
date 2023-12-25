@@ -8,3 +8,4 @@ I will try the Pomodoro technique while doing this challenge and set aside a spe
 Officially committed to learning full stack development. Starting with the Odin Project and once finished with the introductory course I will be learning with full stack open
 
 ### R1D2
+Went through some basics of what the internet was watching a videos and reading some pages. It was honestly probably something I could have skipped, but I decided to take it pretty light on Christmas Eve.
